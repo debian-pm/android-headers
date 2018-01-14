@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/halium/android-headers
 Package: android-headers
 Architecture: all
 Multi-Arch: foreign
-Depends: android-headers-24,
+Depends: android-headers-19,
          ${misc:Depends}
 Pre-Depends: dpkg (>= 1.17.14)
 Replaces: android-platform-headers
