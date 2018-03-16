@@ -8,6 +8,7 @@ Homepage: https://github.com/Halium/android-headers
 
 Package: android-headers
 Architecture: all
+Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: Android Platform Headers from AOSP releases
  Android NDK provided by Google contains subset of AOSP platform
