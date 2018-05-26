@@ -1,4 +1,10 @@
-android-headers (1:7.1-3) UNRELEASED; urgency=medium
+android-headers (1:7.1-4) UNRELEASED; urgency=medium
+
+  *  Revert back to old behaviour for caf / generic devices
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 26 May 2018 17:57:03 +0200
+
+android-headers (1:7.1-3) unstable; urgency=medium
 
   * Enable caf support
 
